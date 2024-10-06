@@ -1,0 +1,27 @@
+Devops 
+Date:9-01-2024
+SDLC: software devolope lifecycle
+agile terms
+1. what is agail?
+2. product owner
+3. product backlog
+4. itration
+5. sprint
+6. Sprint planning meeting 
+7. wprint review meeting
+8. Standup call 
+9. rectro sprit meeting / postmortom meeting
+10. User storry
+11. User storry points
+12. scrum master
+13. sdlc
+Developer	Tester	Operation
+14 agail
+
+=============================================================
+Azure account 
+User name: sujayhs@live.com
+Password: 
+
+========================
+Sujay test 22012924
